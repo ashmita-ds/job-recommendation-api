@@ -4,6 +4,9 @@ A simple FastAPI-based job recommendation system that suggests relevant job role
 
 This project demonstrates backend development, API design, and basic recommendation logic using Python.
 
+## Live Demo
+https://job-recommendation-api-nm2x.onrender.com/docs
+
 ---
 
 ## 📌 Features
